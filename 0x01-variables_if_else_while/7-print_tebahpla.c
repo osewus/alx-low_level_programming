@@ -11,11 +11,11 @@
  */
 int main(void)
 {
-	char lower_case;
+	char alphabet;
 
-	for (lower_case = 122; lower_case <= 97; lower_case--)
+	for (alphabet = 'z'; alphabet >= 'a'; alphabet--)
 	{
-		putchar(lower_case);
+		putchar(alphabet);
 	}
 
 	putchar('\n');
