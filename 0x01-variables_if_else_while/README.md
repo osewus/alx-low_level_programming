@@ -1,1 +1,1 @@
-Variables, if else statements
+Variables and conditional statements
