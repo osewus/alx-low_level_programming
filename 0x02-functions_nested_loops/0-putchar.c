@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include "main.h"
 /* -putchar - writes the character c to stdout */
-/**
+/** Trying out
  * main - Entry point
  *
  * Return: Always 0 (Success)
