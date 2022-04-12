@@ -6,9 +6,8 @@
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
- *
+ * print_alphabet - prints alphabets in lower case
  * Return: Always 0 (Success)
- * Description: print alphabet function
  */
 void print_alphabet(void)
 {
