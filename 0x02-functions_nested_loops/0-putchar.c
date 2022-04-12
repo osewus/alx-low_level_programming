@@ -3,12 +3,12 @@
 /* more headers goes there */
 #include <stdio.h>
 #include "main.h"
-/* -putchar - writes the character c to stdout */
-/** Trying out
+/* betty style doc for function main goes there */
+/**
  * main - Entry point
  *
  * Return: Always 0 (Success)
- * on error, -1 is returned, and errorno is set appropriately */
+ */
 int main(void)
 {
 	char ermias[] = "_putchar";
