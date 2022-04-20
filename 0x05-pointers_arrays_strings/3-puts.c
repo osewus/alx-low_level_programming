@@ -4,7 +4,7 @@
  *_puts - print a string 
  *@str: A pointer to an int that will be changed
  *
- * Return: void which means our answer is correct
+ *Return: void which means our answer is correct
  */
 
 void _puts(char *str)
